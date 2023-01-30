@@ -1,0 +1,12 @@
+[
+    {
+        "id": "begin",
+        "nextIDs": ["sticker"]
+    },
+    {
+        "id": "sticker",
+        "filterDesc": {
+            "type": "StickerFilter"
+        }
+    }
+]
