@@ -81,5 +81,5 @@
 #### 最终效果图：<br>
 ![请添加图片描述](https://img-blog.csdnimg.cn/170fd73692d841d4aa6a4b06dbe96268.gif)
 
-## Demo代码工程：[https://github.com/sysu-huangwei/Makeup](https://github.com/sysu-huangwei/Makeup)
-## 文档：[https://blog.csdn.net/q345911572/article/details/127644640](https://blog.csdn.net/q345911572/article/details/127644640)
+### Demo代码工程：[https://github.com/sysu-huangwei/Makeup](https://github.com/sysu-huangwei/Makeup)
+### 文档：[https://blog.csdn.net/q345911572/article/details/127644640](https://blog.csdn.net/q345911572/article/details/127644640)
