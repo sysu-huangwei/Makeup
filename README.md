@@ -6,7 +6,7 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/70f1f6b6d7b1495aa35bd9be2a9f5016.png)
 * 在贴纸美妆中，也是通过贴纸和原始人像图片的叠加，得到叠加美妆贴纸后的效果<br>
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/7ee3e52ceed345c8bcadf8d0f00153a9.png)
-<br>
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/3f5ab43194564965999e407eba716856.gif)
 
 
